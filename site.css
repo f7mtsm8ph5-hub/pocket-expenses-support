@@ -30,3 +30,5 @@ article{background:var(--card);border-radius:24px;padding:1.4rem}article h3{marg
 .screen .card{background:#fff;border-radius:1.2rem;padding:.8rem 1rem;display:flex;flex-direction:column}.screen .card small{color:#7c7c82}
 .screen .pill{margin-top:auto;background:#fff;border-radius:99px;padding:.7rem 1rem;color:#9a9aa0;box-shadow:0 2px 8px rgba(0,0,0,.12)}
 @media(max-width:46rem){.hero{grid-template-columns:1fr}.nav nav a:first-child{display:none}}
+.doc{max-width:46rem;padding-top:1.5rem;padding-bottom:3rem}.doc h1{font-size:clamp(2rem,5vw,2.8rem);margin-bottom:.25rem}
+.doc h2{font-size:1.3rem;margin:2rem 0 .5rem}.doc p{margin:.5rem 0 1rem}.doc strong{font-weight:650}
